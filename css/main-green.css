@@ -1925,6 +1925,11 @@ body > footer .copyrights {
   -webkit-tap-highlight-color: transparent;
 }
 
+.highlight {
+  color: #ffcc00; /* Amarelo ouro */
+  font-weight: bold;
+}
+
 .portfolio-page-carousel .owl-dots .owl-dot {
   display: inline-block;
 }
